@@ -8,6 +8,7 @@ This repository contains the RTL source and configuration files needed to reprod
 
 | Metric | Value |
 |---|---|
+| Clock period  |  10ns (100MHz)  |
 | Core Utilization | 58.02% |
 | Die Area | ~0.0019 mm² |
 | Setup Slack | +6.78 ns |
